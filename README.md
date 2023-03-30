@@ -1,2 +1,2 @@
 # cursera-test
-cursera-tesr repozitory
+cursera-test repozitory
